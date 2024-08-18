@@ -1,3 +1,5 @@
+git config --global user.name yasmine 
+git config --global user.email yasminemohamed322@gmail.com
 git clone https://github.com/yasmine-shaker/OSC_Task
  mkdir task-2
  cd ~/OSC_Task
